@@ -1,6 +1,7 @@
 # Machine Learning for Shopify Data
 
-![]()
+![](Images/online-shopping-credit-cards.jpg)
+
 
 
 Data Science project using Supervised Machine Learning to predict LTV and repeat customers for Shopify order exports. Code can be replicated so that Shopify Store Owners can repeat this analysis. 
