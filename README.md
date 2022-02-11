@@ -16,16 +16,16 @@ Data Science project using supervised machine learning to predict customer Lifet
  Data comes from Shopify store that specialized in fitness apparel. Please see link above for Shopify's instructions to export your store data. 
 
 **II. Jupyter Notebooks**
- - [Data Exploration](https://github.com/benjaminbellman/Shopify_CLTV_Machine_Learning/blob/main/1.Preliminary_Analysis/Preliminary_Wrangling%26EDA.ipynb) -- Exploring our data and determining LTV Range. 
- - [Data Wrangling](https://github.com/benjaminbellman/Shopify_CLTV_Machine_Learning/blob/main/2.Data_Wrangling/Data_Wrangling.ipynb) -- Reshaping original raw export to get a cleaned customer LTV table. 
- - [Exploratory Data Analysis](https://github.com/benjaminbellman/Shopify_CLTV_Machine_Learning/blob/main/3.Exploratory_Data_Analysis/EDA.ipynb) -- Exploring which variables correlate with target LTV and Repeat Customer variables. 
- - [Modelling](https://github.com/benjaminbellman/Shopify_CLTV_Machine_Learning/tree/main/4.Modelling)
+ - [Data Exploration](https://github.com/benjaminbellman/Shopify_CLTV_Machine_Learning/blob/main/Jupyter_Notebooks/1.Data_Exploration/Data_Exploration.ipynb) -- Exploring our data and determining LTV Range. 
+ - [Data Wrangling](https://github.com/benjaminbellman/Shopify_CLTV_Machine_Learning/blob/main/Jupyter_Notebooks/2.Data_Wrangling/Data_Wrangling.ipynb) -- Reshaping original raw export to get a cleaned customer LTV table. 
+ - [Exploratory Data Analysis](https://github.com/benjaminbellman/Shopify_CLTV_Machine_Learning/blob/main/Jupyter_Notebooks/3.Exploratory_Data_Analysis/EDA.ipynb) -- Exploring which variables correlate with target LTV and Repeat Customer variables. 
+ - [Modelling](https://github.com/benjaminbellman/Shopify_CLTV_Machine_Learning/tree/main/Jupyter_Notebooks/4.Modelling)
     1.   _Regression Models_: Use of 2 different models to predict post first week spend.
     2.   _Classsification Models_: Use of 4 different models to predict post first week repeat orders.
 
  **III. Supporting Documentation**
  - [Final Report](https://awesomeopensource.com/project/elangosundar/awesome-README-templates) -- Report detailing steps undertaken and key findings. 
- - [Presentation](https://github.com/matiassingers/awesome-readme) -- Presentation on project purpose, steps undertaken and results
+ - [Presentation](https://github.com/benjaminbellman/Shopify_CLTV_Machine_Learning/blob/main/Report_Presentation/Shopify_LTV_Repeat_Presentation.pdf) -- Presentation on project purpose, steps undertaken and results
  - [Metrics File]() -- Excel file with model outputs and metric evaluation. 
  
 ## Acknowledgments 
