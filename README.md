@@ -24,9 +24,9 @@ Data Science project using supervised machine learning to predict customer Lifet
     2.   _Classsification Models_: Use of 4 different models to predict post first week repeat orders.
 
  **III. Supporting Documentation**
- - [Final Report](https://awesomeopensource.com/project/elangosundar/awesome-README-templates) -- Report detailing steps undertaken and key findings. 
+ - [Final Report](https://github.com/benjaminbellman/Shopify_CLTV_Machine_Learning/blob/main/Report_Presentation/Shopify_Report.pdf) -- Report detailing steps undertaken and key findings. 
  - [Presentation](https://github.com/benjaminbellman/Shopify_CLTV_Machine_Learning/blob/main/Report_Presentation/Shopify_LTV_Repeat_Presentation.pdf) -- Presentation on project purpose, steps undertaken and results
- - [Metrics File]() -- Excel file with model outputs and metric evaluation. 
+ - [Metrics File](https://github.com/benjaminbellman/Shopify_CLTV_Machine_Learning/blob/main/Report_Presentation/Metrics.xlsx) -- Excel file with model outputs and metric evaluation. 
  
 ## Acknowledgments 
 Special thank you to: 
